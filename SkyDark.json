@@ -16,7 +16,7 @@
             "#0e0c0e"
         ],
         "BACKGROUND_ACCENT": [
-            "#b5fff9"
+            "#9effff"
         ],
         "BACKGROUND_FLOATING": [
             "#0e0b0e"
@@ -37,7 +37,7 @@
             "#00000000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#8ff4e6"
+            "#9effff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111"
@@ -73,7 +73,7 @@
             "#3D2C37"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#8ff4e633"
+            "#9effff33"
         ],
         "BACKGROUND_PRIMARY": [
             "#271927"
@@ -157,7 +157,7 @@
             "#39343F"
         ],
         "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-            "#8ff4e6"
+            "#9effff"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#A39595"
@@ -172,7 +172,7 @@
             "#4D4141"
         ],
         "STATUS_DANGER": [
-            "#8ff4e6"
+            "#9effff"
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#f44444"
@@ -202,7 +202,7 @@
             "#fbfbfb"
         ],
         "TEXT_SECONDARY": [
-            "#a0f0ff"
+            "#9effff"
         ],
         "BG_MOD_FAINT": [
             "#4A3441"
@@ -217,7 +217,7 @@
         "BLUE_330": "#93edd1",
         "BLUE_345": "#90e8cf",
         "BLUE_360": "#00E5FF",
-        "BLUE_400": "#88dbc8",
+        "BLUE_400": "#9effff",
         "BLUE_430": "#83d4c7",
         "BLUE_460": "#7ecccb",
         "BLUE_500": "#78c2c5",
@@ -228,13 +228,13 @@
         "BLUE_660": "#5f99bf",
         "BLUE_700": "#598fbf",
         "BLACK_500": "#000000b2",
-        "BRAND_200": "#8ff4e6",
+        "BRAND_200": "#9effff",
         "BRAND_260": "#9effff",
         "BRAND_300": "#98f5ef",
         "BRAND_330": "#93edd1",
         "BRAND_345": "#90e8cf",
         "BRAND_360": "#00E5FF",
-        "BRAND_400": "#88dbc8",
+        "BRAND_400": "#9effff",
         "BRAND_430": "#83d4c7",
         "BRAND_460": "#7ecccb",
         "BRAND_500": "#78c2c5",
@@ -265,7 +265,7 @@
         "PLUM_9": "#a59090",
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#ffffff",
-        "PRIMARY_300": "#8ff4e6",
+        "PRIMARY_300": "#9effff",
         "PRIMARY_330": "#FCFDFC",
         "PRIMARY_360": "#fcfdfc",
         "PRIMARY_400": "#ffffff",
@@ -284,7 +284,7 @@
         "GREEN_330": "#93edd1",
         "GREEN_345": "#90e8cf",
         "GREEN_360": "#00E5FF",
-        "GREEN_400": "#88dbc8",
+        "GREEN_400": "#9effff",
         "GREEN_430": "#83d4c7",
         "GREEN_460": "#7ecccb",
         "GREEN_500": "#78c2c5",
@@ -302,7 +302,7 @@
         "RED_330": "#93edd1",
         "RED_345": "#90e8cf",
         "RED_360": "#00E5FF",
-        "RED_400": "#88dbc8",
+        "RED_400": "#9effff",
         "RED_430": "#83d4c7",
         "RED_460": "#7ecccb",
         "RED_500": "#78c2c5",
@@ -318,7 +318,7 @@
         "ORANGE_330": "#93edd1",
         "ORANGE_345": "#90e8cf",
         "ORANGE_360": "#00E5FF",
-        "ORANGE_400": "#88dbc8",
+        "ORANGE_400": "#9effff",
         "ORANGE_430": "#83d4c7",
         "ORANGE_460": "#7ecccb",
         "ORANGE_500": "#78c2c5",
@@ -333,7 +333,7 @@
         "YELLOW_330": "#93edd1",
         "YELLOW_345": "#90e8cf",
         "YELLOW_360": "#00E5FF",
-        "YELLOW_400": "#88dbc8",
+        "YELLOW_400": "#9effff",
         "YELLOW_430": "#83d4c7",
         "YELLOW_460": "#7ecccb",
         "YELLOW_500": "#78c2c5",
@@ -386,4 +386,4 @@
         }
     },
     "spec": 2
-}
+    }
