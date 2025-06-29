@@ -1,10 +1,10 @@
 {
     "name": "SkyDark",
-    "description": "A modified version of the Rosiedark theme",
+    "description": "A modified version of the RosieDark theme",
     "version": "1",
     "authors": [
         {
-            "name": "Rairof",
+            "name": "Awkoro",
             "id": "807170846497570848"
         }
     ],
@@ -124,7 +124,7 @@
             "#4d3939"
         ],
         "HEADER_PRIMARY": [
-            "#92e7b3"
+            "#7fffd4"
         ],
         "HEADER_SECONDARY": [
             "#FFEFFF"
@@ -136,7 +136,7 @@
             "#DEDCDE"
         ],
         "INTERACTIVE_MUTED": [
-            "#8abfb0"
+            "#66d9ef"
         ],
         "INTERACTIVE_NORMAL": [
             "#fdfdfd"
@@ -187,7 +187,7 @@
             "#17131a"
         ],
         "POLLS_VICTOR_FILL": [
-            "#8ee6c1"
+            "#5eead4"
         ],
         "TEXT_LINK": [
             "#bafffb"
@@ -202,7 +202,7 @@
             "#fbfbfb"
         ],
         "TEXT_SECONDARY": [
-            "#c6e7e7"
+            "#a0f0ff"
         ],
         "BG_MOD_FAINT": [
             "#4A3441"
@@ -216,7 +216,7 @@
         "BLUE_300": "#98f5ef",
         "BLUE_330": "#93edd1",
         "BLUE_345": "#90e8cf",
-        "BLUE_360": "#8ee6c1",
+        "BLUE_360": "#5eead4",
         "BLUE_400": "#88dbc8",
         "BLUE_430": "#83d4c7",
         "BLUE_460": "#7ecccb",
@@ -233,7 +233,7 @@
         "BRAND_300": "#98f5ef",
         "BRAND_330": "#93edd1",
         "BRAND_345": "#90e8cf",
-        "BRAND_360": "#8ee6c1",
+        "BRAND_360": "#5eead4",
         "BRAND_400": "#88dbc8",
         "BRAND_430": "#83d4c7",
         "BRAND_460": "#7ecccb",
@@ -271,19 +271,19 @@
         "PRIMARY_400": "#ffffff",
         "PRIMARY_460": "#2b232f",
         "PRIMARY_500": "#e68cbf",
-        "PRIMARY_530": "#6ed4b3",
+        "PRIMARY_530": "#30e0ff",
         "PRIMARY_600": "#0d0c0e",
         "PRIMARY_630": "#151216",
         "PRIMARY_645": "#0d0b0e",
         "PRIMARY_660": "#18141a",
         "PRIMARY_700": "#18141a",
-        "PRIMARY_730": "#8abfb0",
+        "PRIMARY_730": "#66d9ef",
         "PRIMARY_800": "#181419",
         "GREEN_260": "#9effff",
         "GREEN_300": "#98f5ef",
         "GREEN_330": "#93edd1",
         "GREEN_345": "#90e8cf",
-        "GREEN_360": "#8ee6c1",
+        "GREEN_360": "#5eead4",
         "GREEN_400": "#88dbc8",
         "GREEN_430": "#83d4c7",
         "GREEN_460": "#7ecccb",
@@ -301,7 +301,7 @@
         "RED_300": "#98f5ef",
         "RED_330": "#93edd1",
         "RED_345": "#90e8cf",
-        "RED_360": "#8ee6c1",
+        "RED_360": "#5eead4",
         "RED_400": "#88dbc8",
         "RED_430": "#83d4c7",
         "RED_460": "#7ecccb",
@@ -317,7 +317,7 @@
         "ORANGE_300": "#98f5ef",
         "ORANGE_330": "#93edd1",
         "ORANGE_345": "#90e8cf",
-        "ORANGE_360": "#8ee6c1",
+        "ORANGE_360": "#5eead4",
         "ORANGE_400": "#88dbc8",
         "ORANGE_430": "#83d4c7",
         "ORANGE_460": "#7ecccb",
@@ -332,7 +332,7 @@
         "YELLOW_300": "#98f5ef",
         "YELLOW_330": "#93edd1",
         "YELLOW_345": "#90e8cf",
-        "YELLOW_360": "#8ee6c1",
+        "YELLOW_360": "#5eead4",
         "YELLOW_400": "#88dbc8",
         "YELLOW_430": "#83d4c7",
         "YELLOW_460": "#7ecccb",
@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/O8WgCld.jpeg",
+        "url": "https://i.imgur.com/kI3bWJR.jpeg",
         "OPACITY": 0
     },
     "plus": {
@@ -377,13 +377,13 @@
         "mentionLineColor": "#E692C4",
         "customOverlays": true,
         "icons": {
-            "trash": "#6febca",
-            "TrashIcon": "#6febca",
-            "TriangleExclamationPointIcon": "#6febca",
-            "toast_copy_link": "#ccfff4",
+            "trash": "#2ee8f7",
+            "TrashIcon": "#2ee8f7",
+            "TriangleExclamationPointIcon": "#2ee8f7",
+            "toast_copy_link": "#aaffff",
             "toast_copy_message": "#feffff",
             "toast_image_saved": "#feffff"
         }
     },
     "spec": 2
-}
+    }
