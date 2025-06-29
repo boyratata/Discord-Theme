@@ -1,6 +1,6 @@
 {
-    "name": "RosieDark",
-    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
+    "name": "SkyDark",
+    "description": "A modified version of the Rosiedark theme",
     "version": "1",
     "authors": [
         {
@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/kI3bWJR.jpeg",
+        "url": "https://i.imgur.com/O8WgCld.jpeg",
         "OPACITY": 0
     },
     "plus": {
