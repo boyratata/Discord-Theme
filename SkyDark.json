@@ -187,7 +187,7 @@
             "#17131a"
         ],
         "POLLS_VICTOR_FILL": [
-            "#5eead4"
+            "#00E5FF"
         ],
         "TEXT_LINK": [
             "#bafffb"
@@ -216,7 +216,7 @@
         "BLUE_300": "#98f5ef",
         "BLUE_330": "#93edd1",
         "BLUE_345": "#90e8cf",
-        "BLUE_360": "#5eead4",
+        "BLUE_360": "#00E5FF",
         "BLUE_400": "#88dbc8",
         "BLUE_430": "#83d4c7",
         "BLUE_460": "#7ecccb",
@@ -233,7 +233,7 @@
         "BRAND_300": "#98f5ef",
         "BRAND_330": "#93edd1",
         "BRAND_345": "#90e8cf",
-        "BRAND_360": "#5eead4",
+        "BRAND_360": "#00E5FF",
         "BRAND_400": "#88dbc8",
         "BRAND_430": "#83d4c7",
         "BRAND_460": "#7ecccb",
@@ -283,7 +283,7 @@
         "GREEN_300": "#98f5ef",
         "GREEN_330": "#93edd1",
         "GREEN_345": "#90e8cf",
-        "GREEN_360": "#5eead4",
+        "GREEN_360": "#00E5FF",
         "GREEN_400": "#88dbc8",
         "GREEN_430": "#83d4c7",
         "GREEN_460": "#7ecccb",
@@ -301,7 +301,7 @@
         "RED_300": "#98f5ef",
         "RED_330": "#93edd1",
         "RED_345": "#90e8cf",
-        "RED_360": "#5eead4",
+        "RED_360": "#00E5FF",
         "RED_400": "#88dbc8",
         "RED_430": "#83d4c7",
         "RED_460": "#7ecccb",
@@ -317,7 +317,7 @@
         "ORANGE_300": "#98f5ef",
         "ORANGE_330": "#93edd1",
         "ORANGE_345": "#90e8cf",
-        "ORANGE_360": "#5eead4",
+        "ORANGE_360": "#00E5FF",
         "ORANGE_400": "#88dbc8",
         "ORANGE_430": "#83d4c7",
         "ORANGE_460": "#7ecccb",
@@ -332,7 +332,7 @@
         "YELLOW_300": "#98f5ef",
         "YELLOW_330": "#93edd1",
         "YELLOW_345": "#90e8cf",
-        "YELLOW_360": "#5eead4",
+        "YELLOW_360": "#00E5FF",
         "YELLOW_400": "#88dbc8",
         "YELLOW_430": "#83d4c7",
         "YELLOW_460": "#7ecccb",
@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/1IhT8n2.jpeg",
+        "url": "https://i.imgur.com/imQlDgm.jpeg",
         "OPACITY": 0
     },
     "plus": {
@@ -386,4 +386,4 @@
         }
     },
     "spec": 2
-    }
+}
