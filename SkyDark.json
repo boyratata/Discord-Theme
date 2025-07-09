@@ -52,7 +52,7 @@
             "#9c9c9c"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#3D2C37"
+            "#2c3e48"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#131014"
@@ -67,10 +67,10 @@
             "#1D191F"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3D2C37"
+            "#2c3e48"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#3D2C37"
+            "#2c3e48"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#9effff33"
